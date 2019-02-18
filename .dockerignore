@@ -1,0 +1,12 @@
+Dockerfile*
+docker-compose*
+.dockerignore
+
+.git
+.gitignore
+.env*
+.travis.yml
+.DS_Store
+*.yml
+Makefile
+README.md
